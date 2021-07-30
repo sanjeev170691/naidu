@@ -1,9 +1,6 @@
 this is the first line
-<<<<<<< HEAD
-second linei
-third line
-=======
 second line
+third line
 fourth line
 fifth line
->>>>>>> origin/master
+sixth line
